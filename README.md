@@ -1,2 +1,2 @@
-# TipTime
-Repositório criado para a disciplina de PAM.
+# PAM-I-Notes
+Projeto da disciplina de PAM.
